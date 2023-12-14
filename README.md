@@ -1,8 +1,6 @@
 # product-preview-card
 Frontend Mentor Product card challenge cloned ( responsive version available )
-:shipit:
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
-
+> "Consider replicating a project to gain a deeper grasp of web languages and their functionalities."
 
