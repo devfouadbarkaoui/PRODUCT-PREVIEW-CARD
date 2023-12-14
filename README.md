@@ -1,3 +1,5 @@
 # product-preview-card
 Frontend Mentor Product card challenge cloned ( responsive version available )
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+@fouadbarkaoui :+1: This PROJECT looks great - it's ready to merge! :shipit:
+
+
