@@ -1,5 +1,8 @@
 # product-preview-card
 Frontend Mentor Product card challenge cloned ( responsive version available )
-@fouadbarkaoui :+1: This PROJECT looks great - it's ready to merge! :shipit:
+:shipit:
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 
 
