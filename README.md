@@ -7,6 +7,7 @@ Frontend Mentor Product card challenge cloned ( responsive version available )
 > [!CAUTION]
 >"You are not authorized to incorporate my code into your project."
 
+![image](https://github.com/devfouadbarkaoui/PRODUCT-PREVIEW-CARD/assets/99261414/347176e8-bb0b-4ba8-a7a8-c9230ea692da)
 
 
 
